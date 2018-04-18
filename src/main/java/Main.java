@@ -92,10 +92,12 @@ public class Main {
                 PreparedStatement prep = conn.prepareStatement("SELECT * FROM personnage WHERE id = ?");
                 prep.setInt(1, choixId);
                 afficherSelection.first();
+
                 for (int i = 1; i <= resultMeta2.getColumnCount(); i++)
                     System.out.print("\t" + afficherSelection.getObject(i).toString() + "\t |");
                 System.out.println("\n--------------------------------------------------------------------------");
                 afficherSelection.close();
+
             } else if (choix == 2) {
                 PreparedStatement insert = conn.prepareStatement("INSERT INTO personnage VALUES (null,  ? ,?, ?,  ?,  ?,  ?,  ?)");
                 System.out.println("Type de votre personnage : ");
@@ -122,6 +124,7 @@ public class Main {
                 insert.setString(7, bouclier);
                 insert.executeUpdate();
                 insert.close();
+
             } else if (choix == 3) {
                 System.out.println("Quel personnage voulez-vous modifier ?");
 //                afficherPerso();
@@ -146,6 +149,7 @@ public class Main {
                 prepare.executeUpdate();
                 afficher.close();
                 prepare.close();
+
             } else if (choix == 4) {
                 System.out.println("Quel personnage voulez-vous supprimer ?");
                 afficherPersonnage();
