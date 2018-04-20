@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cd676e1-b9ee-4394-81ce-5f7f0e737e83" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" afterPath="$PROJECT_DIR$/src/main/java/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,27 +31,25 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-842">
-              <caret line="94" column="16" lean-forward="false" selection-start-line="94" selection-start-column="16" selection-end-line="94" selection-end-column="16" />
+            <state relative-caret-position="257">
+              <caret line="66" column="73" lean-forward="true" selection-start-line="64" selection-start-column="16" selection-end-line="66" selection-end-column="73" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#245#298#0" expanded="false" />
-                <element signature="e#1134#1136#0" expanded="false" />
                 <element signature="method#afficherPersonnage#0;class#Main#0" expanded="false" />
-                <element signature="e#9060#9113#0" expanded="false" />
-                <marker date="1524050966456" expanded="true" signature="1106:1130" ph="SELECT * FRO... personnage" />
-                <marker date="1524050966456" expanded="true" signature="2889:2932" ph="UPDATE personnage " />
-                <marker date="1524050966456" expanded="true" signature="3639:3729" ph="INSERT INTO personnage... " />
-                <marker date="1524050966456" expanded="true" signature="3844:3879" ph="DELETE FROM personnage... " />
-                <marker date="1524050966456" expanded="true" signature="3989:4024" ph="DELETE FROM personnage... " />
-                <marker date="1524050966456" expanded="true" signature="4924:4960" ph="SELECT * FRO... personnage" />
-                <marker date="1524050966456" expanded="true" signature="5119:5156" ph="SELECT * FRO... personnage" />
-                <marker date="1524050966456" expanded="true" signature="5693:5755" ph="INSERT INTO personnage... " />
-                <marker date="1524050966456" expanded="true" signature="7265:7301" ph="SELECT * FRO... personnage" />
-                <marker date="1524050966456" expanded="true" signature="7451:7488" ph="SELECT * FRO... personnage" />
-                <marker date="1524050966456" expanded="true" signature="7879:7921" ph="UPDATE personnage " />
-                <marker date="1524050966456" expanded="true" signature="8555:8590" ph="DELETE FROM personnage... " />
-                <marker date="1524050966456" expanded="true" signature="9732:9762" ph="SELECT id, n... personnage" />
+                <element signature="e#9044#9097#0" expanded="false" />
+                <marker date="1524050968034" expanded="true" signature="1106:1130" ph="SELECT * FRO... personnage" />
+                <marker date="1524050968034" expanded="true" signature="2889:2932" ph="UPDATE personnage " />
+                <marker date="1524050968034" expanded="true" signature="3639:3729" ph="INSERT INTO personnage... " />
+                <marker date="1524050968034" expanded="true" signature="3844:3879" ph="DELETE FROM personnage... " />
+                <marker date="1524050968034" expanded="true" signature="3989:4024" ph="DELETE FROM personnage... " />
+                <marker date="1524050968034" expanded="true" signature="4924:4960" ph="SELECT * FRO... personnage" />
+                <marker date="1524050968034" expanded="true" signature="5119:5156" ph="SELECT * FRO... personnage" />
+                <marker date="1524050968034" expanded="true" signature="5677:5739" ph="INSERT INTO personnage... " />
+                <marker date="1524050968034" expanded="true" signature="7249:7285" ph="SELECT * FRO... personnage" />
+                <marker date="1524050968034" expanded="true" signature="7435:7472" ph="SELECT * FRO... personnage" />
+                <marker date="1524050968034" expanded="true" signature="7863:7905" ph="UPDATE personnage " />
+                <marker date="1524050968034" expanded="true" signature="8539:8574" ph="DELETE FROM personnage... " />
               </folding>
             </state>
           </provider>
@@ -305,12 +301,12 @@
       <workItem from="1523949133645" duration="6011000" />
       <workItem from="1523976382890" duration="1068000" />
       <workItem from="1524039655142" duration="1403000" />
-      <workItem from="1524046034303" duration="2259000" />
+      <workItem from="1524046034303" duration="3502000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22628000" />
+    <option name="totallyTimeSpent" value="23871000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -367,22 +363,20 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#245#298#0" expanded="false" />
-            <element signature="e#1134#1136#0" expanded="false" />
             <element signature="method#afficherPersonnage#0;class#Main#0" expanded="false" />
-            <element signature="e#9060#9113#0" expanded="false" />
-            <marker date="1524050966456" expanded="true" signature="1106:1130" ph="SELECT * FRO... personnage" />
-            <marker date="1524050966456" expanded="true" signature="2889:2932" ph="UPDATE personnage " />
-            <marker date="1524050966456" expanded="true" signature="3639:3729" ph="INSERT INTO personnage... " />
-            <marker date="1524050966456" expanded="true" signature="3844:3879" ph="DELETE FROM personnage... " />
-            <marker date="1524050966456" expanded="true" signature="3989:4024" ph="DELETE FROM personnage... " />
-            <marker date="1524050966456" expanded="true" signature="4924:4960" ph="SELECT * FRO... personnage" />
-            <marker date="1524050966456" expanded="true" signature="5119:5156" ph="SELECT * FRO... personnage" />
-            <marker date="1524050966456" expanded="true" signature="5693:5755" ph="INSERT INTO personnage... " />
-            <marker date="1524050966456" expanded="true" signature="7265:7301" ph="SELECT * FRO... personnage" />
-            <marker date="1524050966456" expanded="true" signature="7451:7488" ph="SELECT * FRO... personnage" />
-            <marker date="1524050966456" expanded="true" signature="7879:7921" ph="UPDATE personnage " />
-            <marker date="1524050966456" expanded="true" signature="8555:8590" ph="DELETE FROM personnage... " />
-            <marker date="1524050966456" expanded="true" signature="9732:9762" ph="SELECT id, n... personnage" />
+            <element signature="e#9044#9097#0" expanded="false" />
+            <marker date="1524050968034" expanded="true" signature="1106:1130" ph="SELECT * FRO... personnage" />
+            <marker date="1524050968034" expanded="true" signature="2889:2932" ph="UPDATE personnage " />
+            <marker date="1524050968034" expanded="true" signature="3639:3729" ph="INSERT INTO personnage... " />
+            <marker date="1524050968034" expanded="true" signature="3844:3879" ph="DELETE FROM personnage... " />
+            <marker date="1524050968034" expanded="true" signature="3989:4024" ph="DELETE FROM personnage... " />
+            <marker date="1524050968034" expanded="true" signature="4924:4960" ph="SELECT * FRO... personnage" />
+            <marker date="1524050968034" expanded="true" signature="5119:5156" ph="SELECT * FRO... personnage" />
+            <marker date="1524050968034" expanded="true" signature="5677:5739" ph="INSERT INTO personnage... " />
+            <marker date="1524050968034" expanded="true" signature="7249:7285" ph="SELECT * FRO... personnage" />
+            <marker date="1524050968034" expanded="true" signature="7435:7472" ph="SELECT * FRO... personnage" />
+            <marker date="1524050968034" expanded="true" signature="7863:7905" ph="UPDATE personnage " />
+            <marker date="1524050968034" expanded="true" signature="8539:8574" ph="DELETE FROM personnage... " />
           </folding>
         </state>
       </provider>
@@ -394,22 +388,20 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#245#298#0" expanded="false" />
-            <element signature="e#1134#1136#0" expanded="false" />
             <element signature="method#afficherPersonnage#0;class#Main#0" expanded="false" />
-            <element signature="e#9060#9113#0" expanded="false" />
-            <marker date="1524050966456" expanded="true" signature="1106:1130" ph="SELECT * FRO... personnage" />
-            <marker date="1524050966456" expanded="true" signature="2889:2932" ph="UPDATE personnage " />
-            <marker date="1524050966456" expanded="true" signature="3639:3729" ph="INSERT INTO personnage... " />
-            <marker date="1524050966456" expanded="true" signature="3844:3879" ph="DELETE FROM personnage... " />
-            <marker date="1524050966456" expanded="true" signature="3989:4024" ph="DELETE FROM personnage... " />
-            <marker date="1524050966456" expanded="true" signature="4924:4960" ph="SELECT * FRO... personnage" />
-            <marker date="1524050966456" expanded="true" signature="5119:5156" ph="SELECT * FRO... personnage" />
-            <marker date="1524050966456" expanded="true" signature="5693:5755" ph="INSERT INTO personnage... " />
-            <marker date="1524050966456" expanded="true" signature="7265:7301" ph="SELECT * FRO... personnage" />
-            <marker date="1524050966456" expanded="true" signature="7451:7488" ph="SELECT * FRO... personnage" />
-            <marker date="1524050966456" expanded="true" signature="7879:7921" ph="UPDATE personnage " />
-            <marker date="1524050966456" expanded="true" signature="8555:8590" ph="DELETE FROM personnage... " />
-            <marker date="1524050966456" expanded="true" signature="9732:9762" ph="SELECT id, n... personnage" />
+            <element signature="e#9044#9097#0" expanded="false" />
+            <marker date="1524050968034" expanded="true" signature="1106:1130" ph="SELECT * FRO... personnage" />
+            <marker date="1524050968034" expanded="true" signature="2889:2932" ph="UPDATE personnage " />
+            <marker date="1524050968034" expanded="true" signature="3639:3729" ph="INSERT INTO personnage... " />
+            <marker date="1524050968034" expanded="true" signature="3844:3879" ph="DELETE FROM personnage... " />
+            <marker date="1524050968034" expanded="true" signature="3989:4024" ph="DELETE FROM personnage... " />
+            <marker date="1524050968034" expanded="true" signature="4924:4960" ph="SELECT * FRO... personnage" />
+            <marker date="1524050968034" expanded="true" signature="5119:5156" ph="SELECT * FRO... personnage" />
+            <marker date="1524050968034" expanded="true" signature="5677:5739" ph="INSERT INTO personnage... " />
+            <marker date="1524050968034" expanded="true" signature="7249:7285" ph="SELECT * FRO... personnage" />
+            <marker date="1524050968034" expanded="true" signature="7435:7472" ph="SELECT * FRO... personnage" />
+            <marker date="1524050968034" expanded="true" signature="7863:7905" ph="UPDATE personnage " />
+            <marker date="1524050968034" expanded="true" signature="8539:8574" ph="DELETE FROM personnage... " />
           </folding>
         </state>
       </provider>
@@ -428,22 +420,20 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#245#298#0" expanded="false" />
-            <element signature="e#1134#1136#0" expanded="false" />
             <element signature="method#afficherPersonnage#0;class#Main#0" expanded="false" />
-            <element signature="e#9060#9113#0" expanded="false" />
-            <marker date="1524050966456" expanded="true" signature="1106:1130" ph="SELECT * FRO... personnage" />
-            <marker date="1524050966456" expanded="true" signature="2889:2932" ph="UPDATE personnage " />
-            <marker date="1524050966456" expanded="true" signature="3639:3729" ph="INSERT INTO personnage... " />
-            <marker date="1524050966456" expanded="true" signature="3844:3879" ph="DELETE FROM personnage... " />
-            <marker date="1524050966456" expanded="true" signature="3989:4024" ph="DELETE FROM personnage... " />
-            <marker date="1524050966456" expanded="true" signature="4924:4960" ph="SELECT * FRO... personnage" />
-            <marker date="1524050966456" expanded="true" signature="5119:5156" ph="SELECT * FRO... personnage" />
-            <marker date="1524050966456" expanded="true" signature="5693:5755" ph="INSERT INTO personnage... " />
-            <marker date="1524050966456" expanded="true" signature="7265:7301" ph="SELECT * FRO... personnage" />
-            <marker date="1524050966456" expanded="true" signature="7451:7488" ph="SELECT * FRO... personnage" />
-            <marker date="1524050966456" expanded="true" signature="7879:7921" ph="UPDATE personnage " />
-            <marker date="1524050966456" expanded="true" signature="8555:8590" ph="DELETE FROM personnage... " />
-            <marker date="1524050966456" expanded="true" signature="9732:9762" ph="SELECT id, n... personnage" />
+            <element signature="e#9044#9097#0" expanded="false" />
+            <marker date="1524050968034" expanded="true" signature="1106:1130" ph="SELECT * FRO... personnage" />
+            <marker date="1524050968034" expanded="true" signature="2889:2932" ph="UPDATE personnage " />
+            <marker date="1524050968034" expanded="true" signature="3639:3729" ph="INSERT INTO personnage... " />
+            <marker date="1524050968034" expanded="true" signature="3844:3879" ph="DELETE FROM personnage... " />
+            <marker date="1524050968034" expanded="true" signature="3989:4024" ph="DELETE FROM personnage... " />
+            <marker date="1524050968034" expanded="true" signature="4924:4960" ph="SELECT * FRO... personnage" />
+            <marker date="1524050968034" expanded="true" signature="5119:5156" ph="SELECT * FRO... personnage" />
+            <marker date="1524050968034" expanded="true" signature="5677:5739" ph="INSERT INTO personnage... " />
+            <marker date="1524050968034" expanded="true" signature="7249:7285" ph="SELECT * FRO... personnage" />
+            <marker date="1524050968034" expanded="true" signature="7435:7472" ph="SELECT * FRO... personnage" />
+            <marker date="1524050968034" expanded="true" signature="7863:7905" ph="UPDATE personnage " />
+            <marker date="1524050968034" expanded="true" signature="8539:8574" ph="DELETE FROM personnage... " />
           </folding>
         </state>
       </provider>
@@ -462,22 +452,20 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#245#298#0" expanded="false" />
-            <element signature="e#1134#1136#0" expanded="false" />
             <element signature="method#afficherPersonnage#0;class#Main#0" expanded="false" />
-            <element signature="e#9060#9113#0" expanded="false" />
-            <marker date="1524050966456" expanded="true" signature="1106:1130" ph="SELECT * FRO... personnage" />
-            <marker date="1524050966456" expanded="true" signature="2889:2932" ph="UPDATE personnage " />
-            <marker date="1524050966456" expanded="true" signature="3639:3729" ph="INSERT INTO personnage... " />
-            <marker date="1524050966456" expanded="true" signature="3844:3879" ph="DELETE FROM personnage... " />
-            <marker date="1524050966456" expanded="true" signature="3989:4024" ph="DELETE FROM personnage... " />
-            <marker date="1524050966456" expanded="true" signature="4924:4960" ph="SELECT * FRO... personnage" />
-            <marker date="1524050966456" expanded="true" signature="5119:5156" ph="SELECT * FRO... personnage" />
-            <marker date="1524050966456" expanded="true" signature="5693:5755" ph="INSERT INTO personnage... " />
-            <marker date="1524050966456" expanded="true" signature="7265:7301" ph="SELECT * FRO... personnage" />
-            <marker date="1524050966456" expanded="true" signature="7451:7488" ph="SELECT * FRO... personnage" />
-            <marker date="1524050966456" expanded="true" signature="7879:7921" ph="UPDATE personnage " />
-            <marker date="1524050966456" expanded="true" signature="8555:8590" ph="DELETE FROM personnage... " />
-            <marker date="1524050966456" expanded="true" signature="9732:9762" ph="SELECT id, n... personnage" />
+            <element signature="e#9044#9097#0" expanded="false" />
+            <marker date="1524050968034" expanded="true" signature="1106:1130" ph="SELECT * FRO... personnage" />
+            <marker date="1524050968034" expanded="true" signature="2889:2932" ph="UPDATE personnage " />
+            <marker date="1524050968034" expanded="true" signature="3639:3729" ph="INSERT INTO personnage... " />
+            <marker date="1524050968034" expanded="true" signature="3844:3879" ph="DELETE FROM personnage... " />
+            <marker date="1524050968034" expanded="true" signature="3989:4024" ph="DELETE FROM personnage... " />
+            <marker date="1524050968034" expanded="true" signature="4924:4960" ph="SELECT * FRO... personnage" />
+            <marker date="1524050968034" expanded="true" signature="5119:5156" ph="SELECT * FRO... personnage" />
+            <marker date="1524050968034" expanded="true" signature="5677:5739" ph="INSERT INTO personnage... " />
+            <marker date="1524050968034" expanded="true" signature="7249:7285" ph="SELECT * FRO... personnage" />
+            <marker date="1524050968034" expanded="true" signature="7435:7472" ph="SELECT * FRO... personnage" />
+            <marker date="1524050968034" expanded="true" signature="7863:7905" ph="UPDATE personnage " />
+            <marker date="1524050968034" expanded="true" signature="8539:8574" ph="DELETE FROM personnage... " />
           </folding>
         </state>
       </provider>
@@ -496,22 +484,20 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#245#298#0" expanded="false" />
-            <element signature="e#1134#1136#0" expanded="false" />
             <element signature="method#afficherPersonnage#0;class#Main#0" expanded="false" />
-            <element signature="e#9060#9113#0" expanded="false" />
-            <marker date="1524050966456" expanded="true" signature="1106:1130" ph="SELECT * FRO... personnage" />
-            <marker date="1524050966456" expanded="true" signature="2889:2932" ph="UPDATE personnage " />
-            <marker date="1524050966456" expanded="true" signature="3639:3729" ph="INSERT INTO personnage... " />
-            <marker date="1524050966456" expanded="true" signature="3844:3879" ph="DELETE FROM personnage... " />
-            <marker date="1524050966456" expanded="true" signature="3989:4024" ph="DELETE FROM personnage... " />
-            <marker date="1524050966456" expanded="true" signature="4924:4960" ph="SELECT * FRO... personnage" />
-            <marker date="1524050966456" expanded="true" signature="5119:5156" ph="SELECT * FRO... personnage" />
-            <marker date="1524050966456" expanded="true" signature="5693:5755" ph="INSERT INTO personnage... " />
-            <marker date="1524050966456" expanded="true" signature="7265:7301" ph="SELECT * FRO... personnage" />
-            <marker date="1524050966456" expanded="true" signature="7451:7488" ph="SELECT * FRO... personnage" />
-            <marker date="1524050966456" expanded="true" signature="7879:7921" ph="UPDATE personnage " />
-            <marker date="1524050966456" expanded="true" signature="8555:8590" ph="DELETE FROM personnage... " />
-            <marker date="1524050966456" expanded="true" signature="9732:9762" ph="SELECT id, n... personnage" />
+            <element signature="e#9044#9097#0" expanded="false" />
+            <marker date="1524050968034" expanded="true" signature="1106:1130" ph="SELECT * FRO... personnage" />
+            <marker date="1524050968034" expanded="true" signature="2889:2932" ph="UPDATE personnage " />
+            <marker date="1524050968034" expanded="true" signature="3639:3729" ph="INSERT INTO personnage... " />
+            <marker date="1524050968034" expanded="true" signature="3844:3879" ph="DELETE FROM personnage... " />
+            <marker date="1524050968034" expanded="true" signature="3989:4024" ph="DELETE FROM personnage... " />
+            <marker date="1524050968034" expanded="true" signature="4924:4960" ph="SELECT * FRO... personnage" />
+            <marker date="1524050968034" expanded="true" signature="5119:5156" ph="SELECT * FRO... personnage" />
+            <marker date="1524050968034" expanded="true" signature="5677:5739" ph="INSERT INTO personnage... " />
+            <marker date="1524050968034" expanded="true" signature="7249:7285" ph="SELECT * FRO... personnage" />
+            <marker date="1524050968034" expanded="true" signature="7435:7472" ph="SELECT * FRO... personnage" />
+            <marker date="1524050968034" expanded="true" signature="7863:7905" ph="UPDATE personnage " />
+            <marker date="1524050968034" expanded="true" signature="8539:8574" ph="DELETE FROM personnage... " />
           </folding>
         </state>
       </provider>
@@ -546,27 +532,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-842">
-          <caret line="94" column="16" lean-forward="false" selection-start-line="94" selection-start-column="16" selection-end-line="94" selection-end-column="16" />
+        <state relative-caret-position="257">
+          <caret line="66" column="73" lean-forward="true" selection-start-line="64" selection-start-column="16" selection-end-line="66" selection-end-column="73" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#245#298#0" expanded="false" />
-            <element signature="e#1134#1136#0" expanded="false" />
             <element signature="method#afficherPersonnage#0;class#Main#0" expanded="false" />
-            <element signature="e#9060#9113#0" expanded="false" />
-            <marker date="1524050966456" expanded="true" signature="1106:1130" ph="SELECT * FRO... personnage" />
-            <marker date="1524050966456" expanded="true" signature="2889:2932" ph="UPDATE personnage " />
-            <marker date="1524050966456" expanded="true" signature="3639:3729" ph="INSERT INTO personnage... " />
-            <marker date="1524050966456" expanded="true" signature="3844:3879" ph="DELETE FROM personnage... " />
-            <marker date="1524050966456" expanded="true" signature="3989:4024" ph="DELETE FROM personnage... " />
-            <marker date="1524050966456" expanded="true" signature="4924:4960" ph="SELECT * FRO... personnage" />
-            <marker date="1524050966456" expanded="true" signature="5119:5156" ph="SELECT * FRO... personnage" />
-            <marker date="1524050966456" expanded="true" signature="5693:5755" ph="INSERT INTO personnage... " />
-            <marker date="1524050966456" expanded="true" signature="7265:7301" ph="SELECT * FRO... personnage" />
-            <marker date="1524050966456" expanded="true" signature="7451:7488" ph="SELECT * FRO... personnage" />
-            <marker date="1524050966456" expanded="true" signature="7879:7921" ph="UPDATE personnage " />
-            <marker date="1524050966456" expanded="true" signature="8555:8590" ph="DELETE FROM personnage... " />
-            <marker date="1524050966456" expanded="true" signature="9732:9762" ph="SELECT id, n... personnage" />
+            <element signature="e#9044#9097#0" expanded="false" />
+            <marker date="1524050968034" expanded="true" signature="1106:1130" ph="SELECT * FRO... personnage" />
+            <marker date="1524050968034" expanded="true" signature="2889:2932" ph="UPDATE personnage " />
+            <marker date="1524050968034" expanded="true" signature="3639:3729" ph="INSERT INTO personnage... " />
+            <marker date="1524050968034" expanded="true" signature="3844:3879" ph="DELETE FROM personnage... " />
+            <marker date="1524050968034" expanded="true" signature="3989:4024" ph="DELETE FROM personnage... " />
+            <marker date="1524050968034" expanded="true" signature="4924:4960" ph="SELECT * FRO... personnage" />
+            <marker date="1524050968034" expanded="true" signature="5119:5156" ph="SELECT * FRO... personnage" />
+            <marker date="1524050968034" expanded="true" signature="5677:5739" ph="INSERT INTO personnage... " />
+            <marker date="1524050968034" expanded="true" signature="7249:7285" ph="SELECT * FRO... personnage" />
+            <marker date="1524050968034" expanded="true" signature="7435:7472" ph="SELECT * FRO... personnage" />
+            <marker date="1524050968034" expanded="true" signature="7863:7905" ph="UPDATE personnage " />
+            <marker date="1524050968034" expanded="true" signature="8539:8574" ph="DELETE FROM personnage... " />
           </folding>
         </state>
       </provider>
